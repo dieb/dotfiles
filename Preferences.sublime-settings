@@ -1,0 +1,46 @@
+{
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+    "detect_indentation": true,
+    "draw_indent_guides": true,
+    "draw_white_space": "selection",
+    "enable_tab_scrolling": false,
+    "folder_exclude_patterns":
+    [
+        ".sass-cache",
+        ".svn",
+        ".git",
+        ".hg",
+        "CVS",
+        ".venv",
+        "node_modules",
+        "bower_components",
+        "tmp",
+        ".tmp",
+        "build",
+        "CACHE",
+        "coverage",
+        ".github",
+        ".coverage"
+    ],
+    "font_face": "Menlo",
+    "font_size": 13,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        80
+    ],
+    "tab_width": 4,
+    "tabs_small": true,
+    "theme": "Brogrammer.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_automatic_white_space": true,
+    "trim_trailing_white_space_on_save": true,
+    "use_tab_stops": true,
+    "word_wrap": true,
+    "wrap_width": 80
+}
+
