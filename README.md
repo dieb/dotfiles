@@ -18,6 +18,7 @@ Keychain Access > Settings > Show keychain in menubar
 Automator > Create new service (receives selected `no input`, `any app`, launches `Start Screen Saver`
 
 System Preferences > Security & Privacy > Required password [immediately]
+
 System Preferences > Keyboard > Shortcuts > Services > start screensaver (bind it to Shift + Cmd + Fn + L)
 
 ## iTerm2 Delete Backwards (CMD + Delete)
@@ -31,4 +32,5 @@ System Preferences > Spotlight > Disable everything except Apps, Bookmarks, Calc
 ## Spelling
 
 System Preferences > Keyboard > Text > Correct spelling automatically
+
 Applications' navigation bar (safari, chrome) > Edit > Spelling & Grammar > Check Spelling While Typing
