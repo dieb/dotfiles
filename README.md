@@ -28,4 +28,7 @@ Settings > Keys > Keys Mappings > Add new one (Send 0x17)
 
 System Preferences > Spotlight > Disable everything except Apps, Bookmarks, Calc, Conversion, Docs, Folders, System prefs.
 
+## Spelling
 
+System Preferences > Keyboard > Text > Correct spelling automatically
+Applications' navigation bar (safari, chrome) > Edit > Spelling & Grammar > Check Spelling While Typing
