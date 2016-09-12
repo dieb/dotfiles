@@ -1,0 +1,8 @@
+# For more information about the configurations used
+# in this file, please see the EditorConfig documentation:
+# http://editorconfig.org
+
+[Makefile]
+indent_size = 4
+indent_style = tab
+
